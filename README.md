@@ -1,13 +1,12 @@
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Devesh Kumar Mishra<img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm <a href="https://devn5900.github.io">Devesh Kumar Mishra</a>
+<img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
 <h4 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h4>
 
 <h2 align="center">
 console.log("Welcome Here !!")
-<a href="https://devn5900.github.io/" target="_blank">
- <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfilo" />
- </a>
 </h2>
+
 
 ```js
 import SoftwareDeveloper from 'India';
@@ -25,6 +24,9 @@ class Skills extends SoftwareDeveloper {
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devn5900&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
 <a href="https://github.com/devn5900?tab=followers" target="blank"><img src="https://img.shields.io/github/followers/devn5900?label=Followers&style=for-the-badge" alt="GitHub Badge"></a>
+ <a href="https://devn5900.github.io/" target="_blank">
+ <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfilo" />
+ </a>
 </p>
 
 # 📊 GitHub Stats:
