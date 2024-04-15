@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm <a href="https://devn5900.github.io">Devesh Kumar Mishra</a>
-<img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></h1>
 <h4 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h4>
 
 <h2 align="center">
@@ -29,7 +29,7 @@ class Skills extends SoftwareDeveloper {
  </a>
 </p>
 
-# 📊 GitHub Stats:
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats:
 <div style="display:'flex'">
 <img src="https://github-readme-stats.vercel.app/api?username=devn5900&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devn5900&theme=blue-green&hide_border=true"/>
