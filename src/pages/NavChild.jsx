@@ -1,17 +1,4 @@
-import { CloseIcon, HamburgerIcon } from "@chakra-ui/icons";
-import {
-  Box,
-  Link,
-  Flex,
-  Heading,
-  Icon,
-  Text,
-  Menu,
-  MenuButton,
-  MenuList,
-  MenuItem,
-  Button,
-} from "@chakra-ui/react";
+import { Box, Link, Flex, Heading, Button } from "@chakra-ui/react";
 import React, { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import { HashLink as ReachLink } from "react-router-hash-link";
@@ -20,7 +7,6 @@ import Devesh_Kumar_Mishra_Resume from "../files/Devesh_Kumar_Mishra_Resume.pdf"
 const NavChild = () => {
   const location = useLocation();
   const [active, setActive] = useState("");
-  const [isOpen, setOpen] = useState(false);
   useEffect(() => {
     setActive(location.hash);
   }, [location]);
@@ -28,8 +14,14 @@ const NavChild = () => {
     { id: 1, path: "#home", title: "Home", class: "nav-link home" },
     { id: 2, path: "#about", title: "About", class: "nav-link about" },
     { id: 3, path: "#skills", title: "Skills", class: "nav-link skills" },
-    { id: 4, path: "#projects", title: "Projects", class: "nav-link projects" },
-    { id: 5, path: "#contact", title: "Contact", class: "nav-link contact" },
+    {
+      id: 4,
+      path: "#exprience",
+      title: "Experience",
+      class: "nav-link exprience",
+    },
+    { id: 5, path: "#projects", title: "Projects", class: "nav-link projects" },
+    { id: 6, path: "#contact", title: "Contact", class: "nav-link contact" },
   ];
 
   const openToNewTab = () => {

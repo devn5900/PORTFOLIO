@@ -110,7 +110,7 @@ export default function About() {
             </GridItem>
           </Grid>
           <Heading>
-            <TypingText text={"MREN DEVELOPER"} />
+            <TypingText text={"MERN DEVELOPER"} />
           </Heading>
         </Stack>
         <Flex>

@@ -65,9 +65,15 @@ export default function ProjectChild({ techStack, project }) {
             <Text color="white">{project.feature.join(" | ")}</Text>
           </Box>
           <Flex flexWrap={"wrap"} className="project-tech-stack">
-            {techStack?.map((el) => {
+            {techStack?.map((el, i) => {
               return (
-                <Center m={1} p={2} borderRadius="md" bg={"blackAlpha.900"}>
+                <Center
+                  key={i}
+                  m={1}
+                  p={2}
+                  borderRadius="md"
+                  bg={"blackAlpha.900"}
+                >
                   <Icon
                     as={el.icon}
                     fontSize={["1rem", "1.2rem"]}
