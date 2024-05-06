@@ -10,6 +10,7 @@ import Contact from "./components/Contact";
 import bg from "./images/bg.jpg";
 import Top from "./pages/Top";
 import Github from "./components/Github";
+import Experience from "./components/Experience";
 function App() {
   return (
     <Box
@@ -30,6 +31,7 @@ function App() {
       <Home />
       <About />
       <Skills />
+      <Experience />
       <Projects />
       <Contact />
       <Github />

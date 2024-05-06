@@ -8,21 +8,7 @@ import {
   FaJsSquare,
   FaReact,
 } from "react-icons/fa";
-import { DiAtom, DiNodejsSmall } from "react-icons/di";
-import {
-  SiExpress,
-  SiPostman,
-  SiMongodb,
-  SiGithub,
-  SiNpm,
-  SiCanva,
-  SiNetlify,
-  SiReplit,
-  SiVisualstudiocode,
-  SiNotion,
-  SiCodesandbox,
-  SiJson,
-} from "react-icons/si";
+import { SiJson } from "react-icons/si";
 import codebook from "../images/codebook.png";
 import roamaround from "../images/roamaround.png";
 import awadhstore from "../images/awadhstore.png";
